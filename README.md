@@ -1,2 +1,6 @@
 # Goat Runner
-Runner goat
+NOTE: Sprites are from Google Chrome's Dino Game. They are placeholders and will be replaced as the project progresses.
+
+For this project, I plan to make a 2D runner game where you control a goat and avoid demons. I will try to add a "ceiling" that the player can run on when gravity is inverted. Additionally, I would like to make spawned entities fire projectiles, so it will be somewhat like an "easy" bullet hell game. These should not be too difficult to implement, since they have been done before (albeit in entirely different types of games).
+
+I'm not sure if I want to make the goat able to attack enemies like in a bullet hell game. Since there will be gravity, I must balance the obstacle and resulting projectile spawn against this constraint. Fewer enemies means attacking them will trivialize the game by destroying all obstacles, which would make this into an entirely different sort of game. But both types of games aren't all that different in my opinion, so I'll have to see how these ideas connect.
